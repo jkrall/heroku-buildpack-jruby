@@ -181,7 +181,7 @@ function precompile_assets {
 }
 
 JRUBY_OPTS="-J-Xmx400m -Xcext.enabled=true"
-VERSION="1.7.3"
+VERSION="1.7.4"
 
 download_and_install_jdk
 download_jruby_and_install_default_gems
